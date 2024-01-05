@@ -67,5 +67,6 @@ Steps:
    Tip: Connect the arduino and power supplie grounds together.
 
 7) upload all the code
+   IMPORTANT!: I have lost the arduino code so you will ahve to build your own.
 8) have fun!
    
