@@ -25,4 +25,25 @@ you  will need:
 Steps: 
 1) print the star!
    print all the reqired pieces:
+   2x Star side
+   1x Star support
+   6x Star outside diffuser
+   6x star inside diffuser
+
+   I recommand prining in white but you can also paint the parts once they are prited and assembled
+
+   Tip: you can split the sides do they fit on your 3d printer's bed
+
+2) assemble the star
+   I will upload some pictures to help guide the assembly.
+
+   note: the track in the side pieces is made to accomaodate 2 led strips faceing inward and outward.
+
+   First, drill a hole for the cable on the side that will be the back.
+   Then, place your Leds in the track and solder the wires after passing them in the hole.
+   Glue the diffusers on the outside and the inside while keeping the Leds in the track. The diffusers should fit in one place.
+   Glue the support on the bottom tip of the star.
+   Glue the front of the star.
+
+
    
