@@ -52,13 +52,13 @@ Steps:
 4) connect the pi and the arduino using serial:
    https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/
 
-5) water level sensor wireing
+5) water level sensor wiring
    refer to the Arduino sketch for the pins and your sensor for the voltage.
 
-6) LEDs wireing
+6) LEDs wiring
    I used the pins as follows : R:9, G:10, B:11
 
-   I will detail the wireing for on chanel (color) the others are the same
+   I will detail the wiring for on chanel (color) the others are the same
 
    source: led strip wire
    drain: led power supply ground
