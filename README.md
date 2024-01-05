@@ -45,5 +45,27 @@ Steps:
    Glue the support on the bottom tip of the star.
    Glue the front of the star.
 
+3) connect the LCD to the pi
+   find instructions online for your LCD and modify the pins in the python file
+   here is one: https://pimylifeup.com/raspberry-pi-lcd-16x2/
 
+4) connect the pi and the arduino using serial:
+   https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/
+
+5) water level sensor wireing
+   refer to the Arduino sketch for the pins and your sensor for the voltage.
+
+6) LEDs wireing
+   I used the pins as follows : R:9, G:10, B:11
+
+   I will detail the wireing for on chanel (color) the others are the same
+
+   source: led strip wire
+   drain: led power supply ground
+   gate: arduino output trought a 220Ω resistor AND connect to ground trought a 1㏀ resistor.
+
+   Tip: Connect the arduino and power supplie grounds together.
+
+7) upload all the code
+8) have fun!
    
